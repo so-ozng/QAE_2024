@@ -1,37 +1,6 @@
-# QAE_2024
 
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>데이터 수집 프로젝트</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    p {
-      margin-bottom: 15px;
-    }
-    ul {
-      margin-bottom: 15px;
-    }
-    code {
-      background-color: #f0f0f0;
-      padding: 2px 5px;
-      border-radius: 3px;
-    }
-  </style>
-</head>
 <body>
-  <h1>데이터 수집 프로젝트</h1>
+  <h1>Flight and Weather Dashboard Proj</h1>
 
   <h2>선정 이유 및 수집한 자료</h2>
   <ul>
