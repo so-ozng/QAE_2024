@@ -82,6 +82,8 @@ server <- function(input, output, session) {
       theme_minimal()
   })
   
+})
+
 }
 
 shinyApp(ui = ui, server = server)
